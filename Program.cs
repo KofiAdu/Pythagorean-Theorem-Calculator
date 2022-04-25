@@ -51,33 +51,6 @@ namespace MyPractice
                     Console.WriteLine("Pick between a,b and c");
                     break;
             }
-
-            /*Console.WriteLine("Enter the hypotenus: ");
-            double c = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Enter the adjacent: ");
-            double a = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Enter the opposite: ");
-            double b = Convert.ToDouble(Console.ReadLine());
-
-            if(c < 0 || a < 0 || b < 0)
-            {
-                Console.WriteLine("All the numbers must positive");
-            }
-            else if(c == 0)
-            {
-                c = Math.Sqrt(Math.Pow(a, 2) + Math.Pow(b, 2));
-                Console.WriteLine(c);
-            }
-            else if(a == 0)*/
-
-            /*a = Math.Sqrt(Math.Pow(c, 2) - Math.Pow(b, 2));
-            b = Math.Sqrt(Math.Pow(c, 2) - Math.Pow(a, 2));
-            c = Math.Sqrt(Math.Pow(a, 2) + Math.Pow(b, 2));*/
-
-           
-            
         }
     }
 }
