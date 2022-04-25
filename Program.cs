@@ -48,7 +48,7 @@ namespace MyPractice
                     break;
 
                 default:
-                    Console.WriteLine("Pick between a,b and c");
+                    Console.WriteLine("Pick between a, b and c");
                     break;
             }
         }
