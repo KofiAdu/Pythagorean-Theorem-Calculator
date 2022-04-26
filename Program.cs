@@ -9,7 +9,7 @@ namespace MyPractice
             Console.WriteLine("Pythagorean Theorem Calculator");
             Console.WriteLine(" ");
 
-            Console.WriteLine("Which side do you want to find? a = adjacent, b=opposite, c= hypotenuse");
+            Console.WriteLine("Which side do you want to find? a = adjacent, b = opposite, c = hypotenuse");
             String side = Console.ReadLine();
 
             switch (side.ToLower())
